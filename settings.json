@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Atlas",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Nightfall_mc.aternos.me",
+    "port": 58824,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
